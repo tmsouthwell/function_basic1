@@ -9,7 +9,7 @@ print(number_of_food_groups())
 def number_of_military_branches():
     return 5
 print(number_of_days_in_a_week_silicon_or_triangle_sides() + number_of_military_branches())
-
+# none = function has not been assigned a value
 
 #3
 def number_of_books_on_hold():
@@ -139,6 +139,10 @@ def bar():
     print(3)
 foo()
 
+# 1
+# 3
+# 2
+
 
 #15
 def foo():
@@ -151,3 +155,8 @@ def bar():
     return 5
 y = foo()
 print(y)
+
+# 1
+# 3
+# 5
+# 10
